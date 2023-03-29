@@ -1,7 +1,7 @@
 # DiffMet
 
 
-## Installation:
+## Installing on local:
 
 ### Using conda:
 
