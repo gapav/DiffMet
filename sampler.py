@@ -9,6 +9,10 @@ import numpy as np
 
 @torch.no_grad()
 def get_sample_at_t(
+
+    """
+    Based on https://github.com/lucidrains/denoising-diffusion-pytorch
+    """
     x,
     t,
     condition,
