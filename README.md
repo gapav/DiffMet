@@ -4,7 +4,7 @@
 
 
 
-This repo contains the source code for the developed framework called "DiffMet: Diffusion models and deep learning for precipitation nowcasting"
+This repo contains the source code for the developed precipitation nowcasting framework called "DiffMet: Diffusion models and deep learning for precipitation nowcasting". 
 
 
 ## Installing on local:
