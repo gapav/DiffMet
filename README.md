@@ -1,6 +1,6 @@
 # DiffMet
 
-![alt text](https://raw.githubusercontent.com/gapav/DiffMet/main/repo_imgs/pred1.png?token=GHSAT0AAAAAAB46RJ2BG3UE3PQMZNULIYZ4ZBD5VDQ)
+![alt text](https://raw.githubusercontent.com/gapav/DiffMet/main/repo_imgs/pred1.png?token=GHSAT0AAAAAAB46RJ2AMMAVYAOCWS33MRZ4ZBGOSVQ)
 
 
 
