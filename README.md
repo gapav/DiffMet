@@ -5,6 +5,7 @@
 
 
 This repo contains the source code for the developed precipitation nowcasting framework called "DiffMet: Diffusion models and deep learning for precipitation nowcasting". 
+All notebooks are run in Google Collab, but enviroment for running locally is provided: 
 
 
 ## Installing on local:
