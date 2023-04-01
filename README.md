@@ -1,7 +1,7 @@
 # DiffMet
 
 
-<img src="https://drive.google.com/file/d/12DIgLH70NDEKm9tflJtNuUYBCAeLs1Py/view?usp=sharing" alt="Alt text" title="Optional title">
+<img src="https://raw.githubusercontent.com/gapav/DiffMet/main/repo_imgs/pred1.png" alt="Alt text" title="Optional title">
 
 This repo contains the source code for the developed precipitation nowcasting framework called "DiffMet: Diffusion models and deep learning for precipitation nowcasting". 
 All notebooks are run in Google Collab, but enviroment for running locally is provided: 
