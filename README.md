@@ -1,7 +1,8 @@
 # DiffMet
 
 
-<img src="[https://raw.githubusercontent.com/gapav/DiffMet/main/repo_imgs/pred1.png?token=GHSAT0AAAAAAB46RJ2AMMAVYAOCWS33MRZ4ZBGOSVQ](https://raw.githubusercontent.com/gapav/DiffMet/main/repo_imgs/pred1.png?token=GHSAT0AAAAAAB46RJ2A4BC2MBKT7CKPLMIQZBH3OZQ)" alt="Alt text" title="Optional title">
+
+![My Image]([images/my-image.jpg](https://raw.githubusercontent.com/gapav/DiffMet/main/repo_imgs/pred1.png?token=GHSAT0AAAAAAB46RJ2A4BC2MBKT7CKPLMIQZBH3OZQ))
 
 
 This repo contains the source code for the developed precipitation nowcasting framework called "DiffMet: Diffusion models and deep learning for precipitation nowcasting". 
